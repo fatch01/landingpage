@@ -33,7 +33,7 @@ const HeroSection = () => {
             </video>
         </div>
    </div>
-  )
-}
+  );
+};
 
-export default HeroSection
+export default HeroSection;
